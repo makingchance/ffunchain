@@ -1,2 +1,2 @@
 # ffunchain
-This is blockchain project source for ffun+ developer.
+This is blockchain project's source for ffun+ developer.
